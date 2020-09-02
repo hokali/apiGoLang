@@ -1,0 +1,9 @@
+{
+    "ldapserver": "ldap.dmz.ut1.adobe.net:389",
+    "basedn": "DC=cn,DC=global,DC=corp,DC=com",
+    "binddn": "CN=apiuser,OU=Users,OU=OPS,OU=Sh,DC=cn,DC=global,DC=corp,DC=com",
+    "bindpw": "123456",
+    "filter": "*",
+    "host": "127.0.0.1",
+    "port": 8080
+}
